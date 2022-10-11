@@ -1,7 +1,7 @@
 
 ## About Me
 
-I am a Postgraduate student in Zhejing University, affiliated with [College of Control Science and Engineering](http://www.cse.zju.edu.cn/),  and current research intern in Alibaba DAMO Academy working with XXXX.  Previously, I cooperated with Dr.[Ruirui Li](https://scholar.google.com/citations?user=Tg_SltkAAAAJ&hl=zh-CN) in Beijing University of Chemical Technology. My major research interests are image generation and detection, especially lying within generation model with diffusion and application in content editing.
+I am a Postgraduate student in Zhejing University, affiliated with [College of Control Science and Engineering](http://www.cse.zju.edu.cn/),  and current research intern in Alibaba DAMO Academy working with [Di Chen](https://di-chen.me/).  Previously, I cooperated with Dr.[Ruirui Li](https://scholar.google.com/citations?user=Tg_SltkAAAAJ&hl=zh-CN) in Beijing University of Chemical Technology. My major research interests are image generation and detection, especially lying within generation model with diffusion and application in content editing.
 
 
 ## Experience
