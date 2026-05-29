@@ -3,6 +3,34 @@
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=l_6n20kAAAAJ) page.
 
 <!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026 </div><img src='images/papers/6-AffordMem-arXiv26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [Grounding by Remembering: Cross-Scene and In-Scene Memory for 3D Functional Affordances](https://arxiv.org/abs/2605.11616) \\
+Qirui Wang, Jingyi He, **Yining Pan**, Xulei Yang, Shijie Li \\
+[[Project page]](https://sj-li.com/PROJ/AffordMem/)
+
+- AFFORDMEM grounds 3D functional affordances by combining cross-scene affordance memory with in-scene spatial memory.
+- It improves training-free affordance grounding for small operable regions and spatially qualified queries.
+
+</div>
+</div>
+
+<!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025 </div><img src='images/papers/7-MonoSR-arXiv25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2025**] [MonoSR: Open-Vocabulary Spatial Reasoning from Monocular Images](https://arxiv.org/abs/2511.19119) \\
+Qirui Wang, Jingyi He, **Yining Pan**, Si Yong Yeo, Xulei Yang, Shijie Li \\
+[[Project page]](https://7rwang.github.io/MonoSR/) [[Code]](https://github.com/Zhantao-Gong/FSU-QA.git)
+
+- MonoSR introduces a large-scale monocular spatial reasoning dataset spanning indoor, outdoor, and object-centric scenes.
+- It evaluates VLMs on open-world spatial reasoning and studies auxiliary cues for monocular 3D reasoning.
+
+</div>
+</div>
+
+<!-- Paper 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 </div><img src='images/papers/4-PanDA-CVPR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -15,7 +43,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 </div><img src='images/papers/5-CCF-CVPR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -29,7 +57,7 @@ Yuchen Wu, Kun Wang, **Yining Pan**, Na Zhao \\
 </div>
 </div>
 
-<!-- Paper 3 -->
+<!-- Paper 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,7 +73,7 @@ Yuchen Wu, Kun Wang, **Yining Pan**, Na Zhao \\
 </div>
 </div>
 
-<!-- Paper 4 -->
+<!-- Paper 6 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='images/papers/2-InstructVideo-CVPR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +89,7 @@ H. Yuan, S. Zhang, X. Wang, Y. Wei, T. Feng, **Yining Pan**, Y. Zhang, Z. Liu, S
 </div>
 </div>
 
-<!-- Paper 5 -->
+<!-- Paper 7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 </div><img src='images/papers/1-RLIPv2-ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
