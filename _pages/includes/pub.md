@@ -3,6 +3,33 @@
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=l_6n20kAAAAJ) page.
 
 <!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 </div><img src='images/papers/4-PanDA-CVPR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2026**] [PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving](https://arxiv.org/abs/2604.19379) \\
+**Yining Pan**, Shijie Li, Yuchen Wu, Xulei Yang, Na Zhao
+
+- PanDA studies unsupervised domain adaptation for multimodal 3D panoptic segmentation in autonomous driving.
+- It combines asymmetric multimodal drop and dual-expert pseudo-label refinement to improve robustness under domain shifts.
+
+</div>
+</div>
+
+<!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 </div><img src='images/papers/5-CCF-CVPR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2026**] [CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](https://arxiv.org/abs/2603.23276) \\
+Yuchen Wu, Kun Wang, **Yining Pan**, Na Zhao \\
+[[Project page]](https://github.com/IMPL-Lab/CCF)
+
+- CCF targets domain-generalized multi-modal 3D object detection for autonomous driving.
+- It rebalances camera and LiDAR queries with query-decoupled loss, LiDAR-guided depth priors, and complementary cross-modal masking.
+
+</div>
+</div>
+
+<!-- Paper 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -18,7 +45,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='images/papers/2-InstructVideo-CVPR24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,7 +61,7 @@ H. Yuan, S. Zhang, X. Wang, Y. Wei, T. Feng, **Yining Pan**, Y. Zhang, Z. Liu, S
 </div>
 </div>
 
-<!-- Paper 3 -->
+<!-- Paper 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 </div><img src='images/papers/1-RLIPv2-ICCV23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

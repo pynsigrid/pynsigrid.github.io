@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yining Pan"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "PhD student in SUTD | A*STAR, focusing on multi-modal perception and generation"
+  bio              : "PhD student in SUTD | A*STAR, focusing on multi-modal perception, embodied AI, and autonomous driving"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -67,6 +67,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - history
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
